@@ -1,7 +1,7 @@
 Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts with **The Mathemagicians**.
 
 # Origami
-- [Instagram](https://www.instagram.com/)
+- [Instagram](https://www.instagram.com/noneuclidean_)
 
 # Puzzles
 - [Crosswords](crosswords.md)
