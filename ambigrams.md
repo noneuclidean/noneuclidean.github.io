@@ -1,7 +1,4 @@
-<img src="/images/image%20(1).jpg" width=50% height=50%>
-
-<img src="/images/unknown.png" width=50% height=50%>
-
-<img src="/images/image.jpg" width=50% height=50%>
-
-<img src="/images/Untitled.jpg" width=50% height=50%>
+![1](/images/Untitled.jpg)
+![2](/images/image (1).jpg)
+![3](/images/image.jpg)
+![4](/images/unknown.png)
