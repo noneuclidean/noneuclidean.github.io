@@ -1,4 +1,7 @@
-![godel escher bach](/images/image%20(1).jpg)
-![ukraine](/images/unknown.png)
-![seven](/images/image.jpg)
-![sus](/images/Untitled.jpg)
+<img src="/images/image%20(1).jpg" width=50% height=50%>
+
+<img src="/images/unknown.png" width=50% height=50%>
+
+<img src="/images/image.jpg" width=50% height=50%>
+
+<img src="/images/Untitled.jpg" width=50% height=50%>
