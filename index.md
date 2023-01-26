@@ -5,8 +5,10 @@ Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts wit
 
 # Puzzles
 - [Crosswords](crosswords.md)
-
 - [Hunt puzzles](hunt.md)
+
+# Other
+- [Ambigrams](ambigrams.md)
 
 
 # Contact me:
