@@ -6,6 +6,7 @@ Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts wit
 # Puzzles
 - [Crosswords](crosswords.md)
 - [Hunt puzzles](hunt.md)
+- [Cryptic clues](cryptics.md)
 
 # Other
 - [Ambigrams](ambigrams.md)
