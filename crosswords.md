@@ -8,9 +8,10 @@ I publish American-style crosswords on my [Crosshare](https://crosshare.org/none
 - [Broken printer](https://crosshare.org/crosswords/lJMSLpTSIRge77ZSj4SN/broken-printer)
 - [Semi-themeless #1](https://crosshare.org/crosswords/FbmMDXBiieddgglXMtwE/semi-themeless-1)
 
-I've also made two variety cryptic crosswords:
+I've also made three variety cryptic crosswords:
 
 - [Moving Parts](https://docs.google.com/spreadsheets/d/1IPii82pM4GkUHKyTvHyLOKIUWPEtysIAF4_5ez1BHu8/edit#gid=19501955)
 - [Manual Labors](https://docs.google.com/spreadsheets/d/1EN2Jqa0iNRoNCxo4YyrqDip_PK1NRPmyA2olW0Kh-48/edit#gid=1893055120) (created for Timwi as part of a Secret Santa puzzle exchange)
+- [Transformations](https://docs.google.com/spreadsheets/d/1GZcvAIvxwNbflOtpSmHy8Og75NQsV-VMgOlCxy-i-38)
 
-They're both fairly difficult, so feel free to contact me for hints!
+They're all fairly difficult, so feel free to contact me for hints!
