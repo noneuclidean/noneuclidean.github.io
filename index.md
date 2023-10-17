@@ -13,6 +13,6 @@ Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts wit
 
 
 # Contact me:
-Discord: noneuclidean#7113 (preferred)
+Discord: noneuclidean_ (preferred)
 
 Email: noneuclideanism[at]gmail[dot]com
