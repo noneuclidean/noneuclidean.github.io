@@ -11,3 +11,5 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 [days are determined](https://i.stack.imgur.com/gJWXe.png) (Note: once you think you've finished the first part, click [here](https://i.stack.imgur.com/DEAvl.png) for the second part.)
 
 [Twice as long](https://puzzling.stackexchange.com/questions/116412/how-can-i-make-my-puzzles-twice-as-long)
+
+I've also made a [minihunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/) with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
