@@ -6,5 +6,4 @@ I also write standalone cryptic clues from time to time. Here are a few that I t
 - "Phone initially limits an indecent demeanor's inverse (4)" is basic (10)
 - An evil twin e.g, lopped with agitation e.g, lopped with agitation (12)
 - Imp opener, after some harassment, embraces initially high-earning movie that released on July 21, 2023 (enumeration withheld)
-- I eat after I order, primarily (7)
 - Bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing: close to total lunacy (13)
