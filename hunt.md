@@ -12,4 +12,8 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 [Twice as long](https://puzzling.stackexchange.com/questions/116412/how-can-i-make-my-puzzles-twice-as-long)
 
-I've also made a [minihunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/) with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
+---
+
+[Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
+
+[Diagramless Minis], a puzzle for David Millar's Black-Out Friday puzzle set.
