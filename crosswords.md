@@ -1,12 +1,14 @@
 I publish American-style crosswords on my [Crosshare](https://crosshare.org/noneuclidean) blog. Here are some of the good ones:
 
-- [Safe Cracking](https://crosshare.org/crosswords/ukxV734V4ZETqDehJkgP/safe-cracking)
-- [Clairvoyance](https://crosshare.org/crosswords/zepzQgwWfs8ZmkeJd5wt/clairvoyance)
 - [A Generic Tall Crossword](https://crosshare.org/crosswords/E3ZcTKTP7GQDIyqZgWpK/a-generic-tall-crossword)
+- [Safe Cracking](https://crosshare.org/crosswords/ukxV734V4ZETqDehJkgP/safe-cracking)
+- [Natural Order](https://crosshare.org/crosswords/LqYcET87da1ZegN8E2g2/natural-order-meta)
+- [Clairvoyance](https://crosshare.org/crosswords/zepzQgwWfs8ZmkeJd5wt/clairvoyance)
 - [gottem](https://crosshare.org/crosswords/uSqYMFACYwmhvwo15mQR/gottem)
 - [Mini meta](https://crosshare.org/crosswords/pzJvDSKKnYptHuHf3mnO/mini-meta)
 - [Broken printer](https://crosshare.org/crosswords/lJMSLpTSIRge77ZSj4SN/broken-printer)
 - [Semi-themeless #1](https://crosshare.org/crosswords/FbmMDXBiieddgglXMtwE/semi-themeless-1)
+
 
 I've also made five variety cryptic crosswords:
 
