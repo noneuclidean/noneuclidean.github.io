@@ -17,3 +17,6 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 [Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
 
 [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf), a puzzle for David Millar's Black-Out Friday puzzle set.
+
+[Connections Meta #180 (December 8)
+](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180
