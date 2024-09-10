@@ -7,6 +7,8 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 [Minimalism](https://puzzling.stackexchange.com/questions/110475/minimalism)
 
+[What's the Matter?](https://puzzling.stackexchange.com/questions/128026/whats-the-matter)
+
 ## [IAmLucidNonsense](https://puzzling.stackexchange.com/users/75052/iamlucidnonsense)
 [days are determined](https://i.stack.imgur.com/gJWXe.png) (Note: once you think you've finished the first part, click [here](https://i.stack.imgur.com/DEAvl.png) for the second part.)
 
@@ -20,3 +22,7 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 [Connections Meta #180 (December 8)
 ](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180
+
+[PHRASE DESCRIBING THIS PUZZLE](https://i.imgur.com/s8oujmf.png), a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**
+
+[The Gallery](https://docs.google.com/document/d/1k82Cf5EgG-Pt0uuaEabcEzyACSVqqu4goXEnHv0QxkQ/edit), a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)
