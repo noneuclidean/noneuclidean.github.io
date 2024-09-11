@@ -10,3 +10,4 @@ I also write standalone cryptic clues from time to time. Here are a few that I t
 - Imp opener, after some harassment, embraces initially high-earning movie that released on July 21, 2023 (enumeration withheld)
 - Bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing bearing: close to total lunacy (13)
 - For example, Queen's "Don't Stop Me Now" starting on "gonna" and ending on "real" (ignoring the highest note) is played with ritardando, essentially (4 4)
+- ___ : at fore :: false : true! (3)
