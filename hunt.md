@@ -25,6 +25,6 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 [PHRASE DESCRIBING THIS PUZZLE](https://i.imgur.com/s8oujmf.png), a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**
 
-[The Gallery](https://docs.google.com/document/d/1k82Cf5EgG-Pt0uuaEabcEzyACSVqqu4goXEnHv0QxkQ/edit), a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)
+[The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/), a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)
 
 I made significant contributions to [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), including the metapuzzles and two feeder puzzles.
