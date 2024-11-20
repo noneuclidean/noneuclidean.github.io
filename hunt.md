@@ -16,7 +16,7 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 ---
 
-[Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
+[Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/) and [Septahunt 2](https://docs.google.com/spreadsheets/d/10AP6N8dQfs63jmbU-CjRnWFTHiuHQLS7PuwHpzDR8Mo/edit?gid=718573448#gid=718573448), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.
 
 [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf), a puzzle for David Millar's Black-Out Friday puzzle set.
 
