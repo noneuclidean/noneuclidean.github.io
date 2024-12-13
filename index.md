@@ -1,4 +1,4 @@
-Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts with The Mathemagicians.
+Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts with Society of Enigmatic Spirits (solve [Island Hunt](https://islandpuzzlehunt.com/)!)
 
 # Origami
 - [Instagram](https://www.instagram.com/noneuclidean_)
