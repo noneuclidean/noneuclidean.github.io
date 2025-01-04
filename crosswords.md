@@ -17,5 +17,6 @@ I've also made five variety cryptic crosswords:
 - [Transformations](https://docs.google.com/spreadsheets/d/1GZcvAIvxwNbflOtpSmHy8Og75NQsV-VMgOlCxy-i-38)
 - [Name of the Game](https://docs.google.com/spreadsheets/d/1OOwQ0FAY4sYv0YDbGZ64Cj1qjgUVEYyzd39iN3CZ5nA) (created for [Personman](https://cohost.org/personman) as part of a Secret Santa puzzle exchange)
 - [If I May Say So...](https://docs.google.com/spreadsheets/d/1WWzxYs9OckWeNT1k14TG02TuHTNIh2870jCJ6cRrSMs)
+- [As Merry as the Deus Song](https://docs.google.com/spreadsheets/d/1FDq_aN10UxA_iFtERju83h5gCqrcZgHoBw2l5Xb2SrI) (created for [Deusovi](https://deusovi.github.io/) as part of a Secret Santa puzzle exchange)
 
 They're all fairly difficult, so feel free to contact me for hints!
