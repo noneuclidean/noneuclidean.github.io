@@ -27,4 +27,4 @@ I share puzzlehunt-style puzzles on the Puzzling Stack Exchange under two accoun
 
 [The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/), a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)
 
-I made significant contributions to [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), including the metapuzzles and two feeder puzzles.
+I wrote the three metapuzzles for [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), as well as two feeders: [Under Pressure](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/90-pressureTMPP) and [A Tale from the Crypt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/93-talefromcryptTMPP).
