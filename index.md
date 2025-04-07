@@ -1,18 +1,14 @@
-Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts with Society of Enigmatic Spirits (solve [Island Hunt](https://islandpuzzlehunt.com/)!)
+Hi! I'm noneuclidean. I used to do origami, but nowadays I solve puzzlehunts with the **[Society of Spirits](https://www.puzzles.wiki/wiki/Puzzle_Islanders)** (solve [Island Hunt](https://islandpuzzlehunt.com/)!)
 
-# Origami
+## Origami
 - [Instagram](https://www.instagram.com/noneuclidean_)
-
-# Puzzles
+## Puzzles
 - [Crosswords](crosswords.md)
 - [Hunt puzzles](hunt.md)
 - [Cryptic clues](cryptics.md)
-
-# Other
+## Other
 - [Ambigrams](ambigrams.md)
 
-
-# Contact me:
-Discord: noneuclidean_ (preferred)
-
+## Contact me:
+Discord: noneuclidean_ (preferred)<br>
 Email: noneuclideanism[at]gmail[dot]com
