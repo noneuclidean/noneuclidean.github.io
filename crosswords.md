@@ -7,8 +7,8 @@ I publish American-style crosswords on my [Crosshare](https://crosshare.org/none
 - [gottem](https://crosshare.org/crosswords/uSqYMFACYwmhvwo15mQR/gottem), a puzzle where chronically online people will get got.<br>
 
 If you're familiar with [metas](https://crosshare.org/articles/meta-crossword-puzzles), I have a few of those too.<br>
-- [Mini meta](https://crosshare.org/crosswords/pzJvDSKKnYptHuHf3mnO/mini-meta)<br>
-- [Natural Order](https://crosshare.org/crosswords/LqYcET87da1ZegN8E2g2/natural-order-meta)<br>
+- [Mini meta](https://crosshare.org/crosswords/pzJvDSKKnYptHuHf3mnO/mini-meta), a tiny meta.<br>
+- [Natural Order](https://crosshare.org/crosswords/LqYcET87da1ZegN8E2g2/natural-order-meta), another tiny meta.<br>
 - [See Also
 ](https://crosshare.org/crosswords/6Yx1QZVGoGnbLx1QebnK/see-also), though not strictly a meta, is meta-adjacent.<br>
 
