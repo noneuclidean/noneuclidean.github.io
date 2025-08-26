@@ -14,7 +14,8 @@ I make standalone hunt-style puzzles! Here are some of the highlights:<br>
 ---
 I've also contributed to several puzzlehunts:
 
-- [Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/) and [Septahunt 2](https://docs.google.com/spreadsheets/d/10AP6N8dQfs63jmbU-CjRnWFTHiuHQLS7PuwHpzDR8Mo/edit?gid=718573448#gid=718573448), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.<br>
 - [The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/), a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)<br>
 - I wrote the three metapuzzles for [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), as well as two feeders: [Under Pressure](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/90-pressureTMPP) and [A Tale from the Crypt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/93-talefromcryptTMPP).<br>
+- I wrote Plainly Indicated, You're Missing Something, Reportedly, Rereading, Ladders, and Playing with Markers (with metaterminal) for [Penchant Hunt](https://penchantpuzzlehunt.com/).
+- [Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/) and [Septahunt 2](https://docs.google.com/spreadsheets/d/10AP6N8dQfs63jmbU-CjRnWFTHiuHQLS7PuwHpzDR8Mo/edit?gid=718573448#gid=718573448), made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.<br>
 - [Myus Hunt](https://puzzlehuntmy.us/hunt/3-myus_hunt), written to celebrate [myus](https://www.puzzles.wiki/wiki/Myus)'s release.
