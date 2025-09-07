@@ -10,6 +10,7 @@ I make standalone hunt-style puzzles! Here are some of the highlights:<br>
 - [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf#page=4), a puzzle for David Millar's 2023 Black-Out Friday puzzle set. ([Available as a Google Sheet](https://docs.google.com/spreadsheets/u/1/d/1k3Jp0wiHeke7D21U72FO5OJKwwLfi0dXNB_LFRXaHsc/copy))<br>
 - [Connections Meta #180 (December 8)
 ](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180<br>
+- [Four Puzzles](https://docs.google.com/spreadsheets/d/1-9JVLqoacCdbwHi1VcHzWeihvIE9KQMG7rv3V9YTXCI) is four puzzles.
 
 ---
 I've also contributed to several puzzlehunts:
