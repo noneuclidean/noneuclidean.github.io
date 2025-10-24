@@ -12,6 +12,9 @@ I make standalone hunt-style puzzles! Here are some of the highlights:<br>
 ](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180<br>
 - [???????](https://docs.google.com/spreadsheets/d/1ilM5VqDeCmFcicDMn0g9GOK2Rc7c6Q3Gp0KboPNcFek/edit) is a set of 26 mini-puzzles. (No, they don't map to letters.)
 - [Four Puzzles](https://docs.google.com/spreadsheets/d/1-9JVLqoacCdbwHi1VcHzWeihvIE9KQMG7rv3V9YTXCI) is four puzzles. [(Answer checker)](https://www.callingit.in/1/#S5HwSX2OnCRg8l02-BGm3Ikh/tSUtyROteHMocXyiwJW9DyQX-Rm91ciBQdXp6bGVz-)
+- [Same Difference!](https://i.sstatic.net/XITkiLjc.png) is a strange graph with some shapes.
+- [A logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
+
 
 ---
 I've also contributed to several puzzlehunts:
