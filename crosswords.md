@@ -4,6 +4,7 @@ I publish American-style crosswords on my [Crosshare](https://crosshare.org/none
 - [?¿](https://crosshare.org/crosswords/EvZUVkKKxOIdVi7UKVaO) a puzzle with only half of the clues given?<br>
 - [Safe Cracking](https://crosshare.org/crosswords/ukxV734V4ZETqDehJkgP/safe-cracking), a puzzle about deducing a code.<br>
 - [Clairvoyance](https://crosshare.org/crosswords/zepzQgwWfs8ZmkeJd5wt/clairvoyance), a puzzle where I read your mind.<br>
+- [Fill in the Blanks](https://crosshare.org/crosswords/DhKXvP0AaqYCWD0hnIkD/fill-in-the-blanks), a puzzle where you fill in the blanks
 - [gottem](https://crosshare.org/crosswords/uSqYMFACYwmhvwo15mQR/gottem), a puzzle where chronically online people will get got.<br>
 
 If you're familiar with [metas](https://crosshare.org/articles/meta-crossword-puzzles), I have a few of those too.<br>
