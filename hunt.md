@@ -1,4 +1,4 @@
-I make standalone hunt-style puzzles! Here are some of the highlights:<br>
+I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style puzzles! Here are some of the highlights:<br>
 - [Redundancy](https://puzzling.stackexchange.com/questions/109708/redundancy), [Definition Resolution](https://puzzling.stackexchange.com/questions/111258/definition-resolution), and
 [Minimalism](https://puzzling.stackexchange.com/questions/110475/minimalism) are puzzles about visual wordplay.<br>
 - [Time's Square](https://puzzling.stackexchange.com/questions/129898/times-square-a-new-years-puzzle) is a puzzle about squares for the year 2025.<br>
