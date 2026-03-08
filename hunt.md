@@ -13,7 +13,7 @@ I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style pu
 - [???????](https://docs.google.com/spreadsheets/d/1ilM5VqDeCmFcicDMn0g9GOK2Rc7c6Q3Gp0KboPNcFek/edit) is a set of 26 mini-puzzles. (No, they don't map to letters.)
 - [Four Puzzles](https://docs.google.com/spreadsheets/d/1-9JVLqoacCdbwHi1VcHzWeihvIE9KQMG7rv3V9YTXCI) is four puzzles. [(Answer checker)](https://www.callingit.in/1/#S5HwSX2OnCRg8l02-BGm3Ikh/tSUtyROteHMocXyiwJW9DyQX-Rm91ciBQdXp6bGVz-)
 - [Same Difference!](http://noneuclidean.github.io/images/sd.png) is a strange graph with some shapes.
-- [A logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
+- [A loop logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
 - [A Puzzle in 52 Cards](http://noneuclidean.github.io/images/52.jpg) is a puzzle in 52 cards. The final answer to the puzzle is a common phrase.
 
 
