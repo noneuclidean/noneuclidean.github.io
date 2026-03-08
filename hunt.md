@@ -6,20 +6,21 @@ I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style pu
 - [Twice as long](https://puzzling.stackexchange.com/questions/116412/how-can-i-make-my-puzzles-twice-as-long) is a simple word puzzle.<br>
 - [What's the Matter?](https://puzzling.stackexchange.com/questions/128026/whats-the-matter) and [The Cutting Room Floor](https://puzzling.stackexchange.com/questions/131267/the-cutting-room-floor) are strange crosswords.<br>
 - [→ Test⁶: Fill⁵ Accordingly¹: ↓ Grid⁴ Unit¹ Contains² Letter³](https://puzzling.stackexchange.com/questions/130264/%e2%86%92-test%e2%81%b6-fill%e2%81%b5-accordingly%c2%b9-%e2%86%93-grid%e2%81%b4-unit%c2%b9-contains%c2%b2-letter%c2%b3) is entirely contained in its title.<br>
-- [PHRASE DESCRIBING THIS PUZZLE](https://i.imgur.com/s8oujmf.png), is a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**<br>
+- [PHRASE DESCRIBING THIS PUZZLE](http://noneuclidean.github.io/images/pdtp.png), is a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**<br>
 - [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf#page=4), a puzzle for David Millar's 2023 Black-Out Friday puzzle set. ([Available as a Google Sheet](https://docs.google.com/spreadsheets/u/1/d/1k3Jp0wiHeke7D21U72FO5OJKwwLfi0dXNB_LFRXaHsc/copy))<br>
 - [Connections Meta #180 (December 8)
 ](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180<br>
 - [???????](https://docs.google.com/spreadsheets/d/1ilM5VqDeCmFcicDMn0g9GOK2Rc7c6Q3Gp0KboPNcFek/edit) is a set of 26 mini-puzzles. (No, they don't map to letters.)
 - [Four Puzzles](https://docs.google.com/spreadsheets/d/1-9JVLqoacCdbwHi1VcHzWeihvIE9KQMG7rv3V9YTXCI) is four puzzles. [(Answer checker)](https://www.callingit.in/1/#S5HwSX2OnCRg8l02-BGm3Ikh/tSUtyROteHMocXyiwJW9DyQX-Rm91ciBQdXp6bGVz-)
-- [Same Difference!](https://i.sstatic.net/XITkiLjc.png) is a strange graph with some shapes.
+- [Same Difference!](http://noneuclidean.github.io/images/sd.png) is a strange graph with some shapes.
 - [A logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
+- [A Puzzle in 52 Cards](http://noneuclidean.github.io/images/52.jpg) is a puzzle in 52 cards. The final answer to the puzzle is a common phrase.
 
 
 ---
 I've also contributed to several puzzlehunts:
 
-- [The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/), is a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)<br>
+- [The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/) is a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)<br>
 - I wrote [Plainly Indicated](https://penchantpuzzlehunt.com/puzzle/plainly-indicated), [You're Missing Something](https://penchantpuzzlehunt.com/puzzle/youre-missing-something), [Reportedly](https://penchantpuzzlehunt.com/puzzle/reportedly), [Rereading](https://penchantpuzzlehunt.com/puzzle/rereading), [Ladders](https://penchantpuzzlehunt.com/puzzle/ladders), and [Playing with Markers](https://penchantpuzzlehunt.com/puzzle/playing-with-markers) (with metaterminal) for [Penchant Hunt](https://penchantpuzzlehunt.com/).
 - I wrote the three metapuzzles for [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), as well as two feeders: [Under Pressure](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/90-pressureTMPP) and [A Tale from the Crypt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/93-talefromcryptTMPP).<br><br>
 - [Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/), [Septahunt 2](https://docs.google.com/spreadsheets/d/10AP6N8dQfs63jmbU-CjRnWFTHiuHQLS7PuwHpzDR8Mo/edit?gid=718573448#gid=718573448), and [Septahunt 3](https://docs.google.com/spreadsheets/d/1mav0Jv8GWJq3i3WlYQ5levY3rYsTLbLfhnTwB06zI6Q/edit) were made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.<br>
