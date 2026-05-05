@@ -15,14 +15,15 @@ I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style pu
 - [Same Difference!](http://noneuclidean.github.io/images/sd.png) is a strange graph with some shapes.
 - [A loop logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
 - [A Puzzle in 52 Cards](http://noneuclidean.github.io/images/52.jpg) is a puzzle in 52 cards. The final answer to the puzzle is a common phrase.
+- [Zoo](https://docs.google.com/spreadsheets/d/1gPUuwa682zV-3f4BhaPg1cWhsnsRk1puM2OHcts6pIU) is a collection of at least 40 minipuzzles.
 
 
 ---
 I've also contributed to several puzzlehunts:
-
 - [The Gallery](https://islandpuzzlehunt.com/puzzle/the-gallery/) is a feeder made for the [Island Puzzle Hunt](https://islandpuzzlehunt.com/)<br>
 - I wrote [Plainly Indicated](https://penchantpuzzlehunt.com/puzzle/plainly-indicated), [You're Missing Something](https://penchantpuzzlehunt.com/puzzle/youre-missing-something), [Reportedly](https://penchantpuzzlehunt.com/puzzle/reportedly), [Rereading](https://penchantpuzzlehunt.com/puzzle/rereading), [Ladders](https://penchantpuzzlehunt.com/puzzle/ladders), and [Playing with Markers](https://penchantpuzzlehunt.com/puzzle/playing-with-markers) (with metaterminal) for [Penchant Hunt](https://penchantpuzzlehunt.com/).
-- I wrote the three metapuzzles for [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), as well as two feeders: [Under Pressure](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/90-pressureTMPP) and [A Tale from the Crypt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/93-talefromcryptTMPP).<br><br>
+- I wrote the three metapuzzles for [Magic Hunt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt), as well as two feeders: [Under Pressure](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/90-pressureTMPP) and [A Tale from the Crypt](https://puzzlehuntmy.us/hunt/13-Magic-Hunt/puzzle/93-talefromcryptTMPP).<br>
+- I wrote [Under the Veil of Night](https://docs.google.com/document/d/1C9zFO8grGbPNMEBo1MPkHKfRwuJTdt7M4080gXQueqA) for the 2026 FAMAT State Convention Puzzlehunt.<br><br>
 - [Septahunt](https://docs.google.com/spreadsheets/u/1/d/1T16A0dZxV0As24ZiSfBgFdCgtFkq0nghhDqnQtAMCTs/), [Septahunt 2](https://docs.google.com/spreadsheets/d/10AP6N8dQfs63jmbU-CjRnWFTHiuHQLS7PuwHpzDR8Mo/edit?gid=718573448#gid=718573448), and [Septahunt 3](https://docs.google.com/spreadsheets/d/1mav0Jv8GWJq3i3WlYQ5levY3rYsTLbLfhnTwB06zI6Q/edit) were made with two friends ([sus1d1p](https://crosshare.org/sus1d1p) and [zimodo](https://zirnodo.blogspot.com/)) for a another friend.<br>
 - [Myus Hunt](https://puzzlehuntmy.us/hunt/3-myus_hunt) was written to celebrate [myus](https://www.puzzles.wiki/wiki/Myus)'s release.
 - [The Nine Muses](https://docs.google.com/spreadsheets/d/1Fw-8IIb-ngtRYqoDpJo6HBwmP0LJvItkuqXR_43Mo9g) is a minihunt written for a puzzle exchange event.
