@@ -15,7 +15,7 @@ I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style pu
 - [Same Difference!](http://noneuclidean.github.io/images/sd.png) is a strange graph with some shapes.
 - [A loop logic puzzle](https://tinyurl.com/ywkcaetw) and [a word puzzle](https://tinyurl.com/zzv3js9u)
 - [A Puzzle in 52 Cards](http://noneuclidean.github.io/images/52.jpg) is a puzzle in 52 cards. The final answer to the puzzle is a common phrase.
-- [Zoo](https://docs.google.com/spreadsheets/d/1gPUuwa682zV-3f4BhaPg1cWhsnsRk1puM2OHcts6pIU) is a collection of at least 40 minipuzzles.
+- [Zoo](https://docs.google.com/spreadsheets/d/1gPUuwa682zV-3f4BhaPg1cWhsnsRk1puM2OHcts6pIU) is a collection of at least 70 minipuzzles, at least half of which were written by me.
 
 
 ---
