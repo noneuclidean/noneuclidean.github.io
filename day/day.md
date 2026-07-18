@@ -30,3 +30,8 @@ Count the number of squares. What letter is this, converted via A1Z26?
 
 ![11](/day/11.png)\
 What letter is this?
+
+---
+
+A certain food is associated with a certain East Asian holiday. What is the food, and what is the holiday?
+
