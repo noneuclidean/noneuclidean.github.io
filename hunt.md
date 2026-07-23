@@ -6,10 +6,10 @@ I make standalone [puzzlehunt](https://blog.vero.site/post/puzzlehunts)-style pu
 - [Twice as long](https://puzzling.stackexchange.com/questions/116412/how-can-i-make-my-puzzles-twice-as-long) is a simple word puzzle.<br>
 - [What's the Matter?](https://puzzling.stackexchange.com/questions/128026/whats-the-matter) and [The Cutting Room Floor](https://puzzling.stackexchange.com/questions/131267/the-cutting-room-floor) are strange crosswords.<br>
 - [→ Test⁶: Fill⁵ Accordingly¹: ↓ Grid⁴ Unit¹ Contains² Letter³](https://puzzling.stackexchange.com/questions/130264/%e2%86%92-test%e2%81%b6-fill%e2%81%b5-accordingly%c2%b9-%e2%86%93-grid%e2%81%b4-unit%c2%b9-contains%c2%b2-letter%c2%b3) is entirely contained in its title.<br>
-- [PHRASE DESCRIBING THIS PUZZLE](http://noneuclidean.github.io/images/pdtp.png), is a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**<br>
-- [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf#page=4), a puzzle for David Millar's 2023 Black-Out Friday puzzle set. ([Available as a Google Sheet](https://docs.google.com/spreadsheets/u/1/d/1k3Jp0wiHeke7D21U72FO5OJKwwLfi0dXNB_LFRXaHsc/copy))<br>
+- [PHRASE DESCRIBING THIS PUZZLE](http://noneuclidean.github.io/images/pdtp.png) is a metameta with the feeders **AFTERTHOUGHTS, JAVANIZATION, QUAINTEST, and TENDERIZING**<br>
+- [Diagramless Minis](https://thegriddle.net/puzzledir/grab-bag_2023_11_24.pdf#page=4) is a puzzle for David Millar's 2023 Black-Out Friday puzzle set. ([Google Sheet available](https://docs.google.com/spreadsheets/u/1/d/1k3Jp0wiHeke7D21U72FO5OJKwwLfi0dXNB_LFRXaHsc/copy))<br>
 - [Connections Meta #180 (December 8)
-](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit), a metamatching puzzle using the words in Connections #180<br>
+](https://docs.google.com/spreadsheets/d/1iCLhMuOi_pEn1WBnJRSnOmJdvqOak0RkTpxFLxeEISU/edit) is a metamatching puzzle using the words from Connections #180<br>
 - [???????](https://docs.google.com/spreadsheets/d/1ilM5VqDeCmFcicDMn0g9GOK2Rc7c6Q3Gp0KboPNcFek/edit) is a set of 26 mini-puzzles. (No, they don't map to letters.)
 - [Four Puzzles](https://docs.google.com/spreadsheets/d/1-9JVLqoacCdbwHi1VcHzWeihvIE9KQMG7rv3V9YTXCI) is four puzzles. [(Answer checker)](https://www.callingit.in/1/#S5HwSX2OnCRg8l02-BGm3Ikh/tSUtyROteHMocXyiwJW9DyQX-Rm91ciBQdXp6bGVz-)
 - [Same Difference!](http://noneuclidean.github.io/images/sd.png) is a strange graph with some shapes.
